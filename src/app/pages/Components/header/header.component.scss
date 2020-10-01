@@ -1,0 +1,19 @@
+mat-toolbar{
+  display: flex;
+}
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.navbar{
+  flex: 1;
+}
+.nav-list-items{
+    color: aliceblue;
+}
+
+.nav-link{
+  text-decoration: none;
+}
+
